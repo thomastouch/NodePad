@@ -1,17 +1,7 @@
 ipad1（期中实验）
 📝 Modern Notes - 现代记事本
 一个功能丰富、设计精美的Android笔记应用，采用现代Android开发架构，提供完整的笔记管理和待办事项功能。
-ps：观察到原先代码的标题和内容容易混淆，标题无法显示等严重缺陷，由于希望美化界面，代码结构和基本框架我参照ai给出的建议，做出了巨大改动，和源代码有很大差距。
-
-现在我们先来看看功能实现的截图。
-我的应用叫现代记事本，可以看见已经创建了两个笔记，上面有时间戳，代办和类型
-<img width="588" height="1302" alt="image" src="https://github.com/user-attachments/assets/2c253e1e-deba-4e65-a483-9f7d305f60fa" />
-搜索功能
-<img width="594" height="1303" alt="image" src="https://github.com/user-attachments/assets/341ef461-c6d9-46e3-a1e3-759d6b47d515" />
-点击右下加号进入新建笔记页面，可以看到代办标记和标题内容输入
-<img width="602" height="1311" alt="image" src="https://github.com/user-attachments/assets/53d3fa0e-0ae6-4ca1-844a-a4057a90889f" />
-点击工作我们还可以加标签
-<img width="589" height="1310" alt="image" src="https://github.com/user-attachments/assets/28aaafce-9a44-41e8-8ebb-e531f5a7b78c" />
+ps：观察到原先代码的标题和内容容易混淆，标题无法显示等严重缺陷，由于希望美化界面，代码结构和基本框架我参照ai给出的建议，做出了巨大改动，和源代码有很大差距
 
 ## 📖 项目背景
 本项目是Android开发期中实验，基于初始的笔记应用框架进行了**大规模重构和优化**：
